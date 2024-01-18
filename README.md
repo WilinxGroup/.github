@@ -24,5 +24,5 @@ Welcome to HorizonGroup, where innovation meets excellence in the realm of mobil
 ## **Get in Touch**
 - **Contact Us:** [info@horizongroup.com](mailto:info@horizongroup.com)
 - **Website:** [www.horizongroup.com](http://www.horizongroup.com)
-- **Social Media:** [LinkedIn](https://www.linkedin.com/in/learnmore-mupimbo-863470101/) | [Twitter]((https://twitter.com/Carnage00747286)https://twitter.com/Carnage00747286) | [Discord](https://discord.gg/m7jCZmur)
+- **Social Media:** [LinkedIn](https://www.linkedin.com/in/learnmore-mupimbo-863470101/) | [Twitter](https://twitter.com/Carnage00747286) | [Discord](https://discord.gg/m7jCZmur)
 

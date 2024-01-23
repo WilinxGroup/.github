@@ -1,4 +1,4 @@
-![Horizon](https://media.istockphoto.com/id/1437268681/ja/%E3%82%B9%E3%83%88%E3%83%83%E3%82%AF%E3%83%95%E3%82%A9%E3%83%88/%E3%82%AC%E3%83%BC%E3%83%87%E3%83%B3%E3%82%B5%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%88.jpg?s=2048x2048&w=is&k=20&c=I0eDzjSMoy04BZKiRtjdWN3nCZqqc6vcipUHGTAX5P0=)
+
 # HorizonGroup
 
 ## **About Us**

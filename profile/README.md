@@ -1,4 +1,3 @@
-![Alt Text](https://d326fntlu7tb1e.cloudfront.net/uploads/02e02810-abc8-48b0-b8cd-fbb72074ddee-horizon.png)(https://www.youtube.com/watch?v=NHlVuQpy8B4&t=33s&ab_channel=dbestech)
 
 # HorizonGroup
 

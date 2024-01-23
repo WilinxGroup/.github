@@ -1,4 +1,5 @@
-![Horizon Group](https://d326fntlu7tb1e.cloudfront.net/uploads/02e02810-abc8-48b0-b8cd-fbb72074ddee-horizon.png)# HorizonGroup
+![Horizon Group](https://d326fntlu7tb1e.cloudfront.net/uploads/02e02810-abc8-48b0-b8cd-fbb72074ddee-horizon.png)
+# HorizonGroup
 
 ## **About Us**
 🙋‍♀️ Welcome to HorizonGroup, where innovation meets excellence in the realm of mobile app and web development. As a dynamic and forward-thinking software company, we specialize in crafting exceptional digital experiences that resonate with users across the globe. Our team of skilled developers and designers are dedicated to delivering solutions that not only meet but exceed our clients' expectations.

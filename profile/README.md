@@ -1,4 +1,4 @@
-![Horizon](https://firebasestorage.googleapis.com/v0/b/authenification-25740.appspot.com/o/horizon.png?alt=media&token=5e66c42f-18ec-40c2-8353-9698f3a222be)
+
 # HorizonGroup
 
 ## **About Us**
